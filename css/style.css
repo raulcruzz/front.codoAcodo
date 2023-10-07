@@ -1,0 +1,70 @@
+header{background-color: #4B4B4B;  
+    display: flex;
+    
+    width: 100%;
+    height: 70px;
+}
+.logo{color: white;
+    margin-top: 10px;
+    margin-right: px;
+}
+.nav{
+    height: 70px;
+
+}
+
+h5{text-align: center;}
+#letrablanca{color: white;
+    margin-top: 12px;}
+#letragris{color: gray;
+    margin-top: 12px;}
+#letragris2{color: gray;
+    margin-top: 12px;}    
+#letraverde{ color: green;
+    margin-top: 12px;}
+.card-group{
+    
+    width: 1000px;
+    margin-left: 200px;
+}
+.card{
+    margin: 25px;
+}
+.mb-3{
+    width: 100%;
+    
+}
+
+#textcard{
+    
+    background-color: #4B4B4B;
+    color: white;
+    
+}
+.formulario{ text-align: center;
+    
+}
+b{font-size: 30px;}
+.p2{text-align:center;
+    margin-right: 530px;
+    
+    font-size: 10px;}
+#name{width: 350px;}
+#apellido{width: 350px;
+}
+#opiniones{ text-align: start;    
+    width: 703px; height: 200px;}
+.btn-success{ width: 703px;
+    
+    }
+footer{background-color: #033E72;
+    width: 100%;
+    
+}
+#footer{text-align: center;
+    color: white;
+    position: relative;
+    left: 220px;
+}
+.w-10{ padding-top: 20px;
+    height: 100px;}
